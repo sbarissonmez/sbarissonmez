@@ -6,12 +6,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=30&lines=Hello+World!;This+is+Baris+Sonmez;I'm+Network+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=%2336BCF7Center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=30&lines=Hello+World!;This+is+Baris+Sonmez;I'm+NetDevOps+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=%2336BCF7Center=true&size=30">
 </p>
 
-<div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500">
-</div>
 
 <!--Statistics-->
 <div align="center">
