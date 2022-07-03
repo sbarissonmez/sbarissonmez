@@ -28,7 +28,7 @@
   <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" alt="bash" width="40" height="40" style="max-width:100%;"/> 
  </a>
  <a href="https://www.ansible.com/" rel="nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" style="max-width:100%;"/> 
+  <img src="https://user-images.githubusercontent.com/13288840/177060536-190fedef-39fe-4b99-9aed-188ca4471bac.png" alt="ansible" width="40" height="40" style="max-width:100%;"/> 
  </a>
  <a href="https://nornir.readthedocs.io" rel="nofollow"> 
   <img src="https://nornir.readthedocs.io/en/latest/_images/nornir_logo_02.jpg" alt="nornir" width="40" height="40" style="max-width:100%;"/> 
@@ -69,14 +69,47 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width:100%;"/>
  </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177059841-71acd10f-0098-47ab-b950-eb730de8255f.png" alt="kubernetes" width="40" height="40" style="max-width:100%;"/>
+ </a>
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" style="max-width:100%;"/>
+  <img src="https://user-images.githubusercontent.com/13288840/177060276-1971da54-29b2-471c-a80d-d963ddebf381.png" alt="vagrant" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://www.gremlin.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060260-d154153c-796f-4ae9-a341-e2c3a71357ee.png" alt="gremlin" width="40" height="40" style="max-width:100%;"/>
  </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="max-width:100%;"/>
  </a>
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177059919-11874bd2-5a22-45f4-821b-999d11a4892b.png" alt="terraform" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://www.chef.io/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060022-84cce608-3d9c-4fd8-bba1-3a7b2c0848c4.png" alt="chef" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://puppet.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060099-7695889b-40b2-4eeb-8121-4379da967287.png" alt="puppet" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://www.atlassian.com/software/bamboo" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060635-6ad2c147-e3c1-47bc-a782-98d4d45090f2.png" alt="bamboo" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060697-16212965-984c-46f0-b538-f57d8df2dec6.png" alt="bitbucket" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://octopus.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060812-94cf26cb-d9b5-435d-8074-8e46cdd2111d.png" alt="octopus" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://saltproject.io/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060515-d7874ada-aecf-4ced-8594-091fb37e97eb.png" alt="saltstack" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060761-1d665d34-f8d6-420f-8d0c-f020cbca8777.png" alt="nagios" width="40" height="40" style="max-width:100%;"/>
+ </a>
+ <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177060476-77c22660-15a6-4455-bec8-56cfef774593.png" alt="servicenow" width="40" height="40" style="max-width:100%;"/>
  </a>
 </div>
 
