@@ -79,13 +79,22 @@
 <h2 align="center">Achievements</h2>
 <div align="center">
  <a href="https://www.credly.com/badges/cd644a1e-1ddd-4125-99cd-2ed4fcfb8f1f/public_url" target="_blank" rel="noreferrer">
-  <img src="https://images.credly.com/size/680x680/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="180"/>
+  <img src="https://images.credly.com/size/680x680/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="150"/>
  </a>
  <a href="https://www.credly.com/badges/f68cdb78-aa23-4759-bc1c-52473150598d/public_url" target="_blank" rel="noreferrer">
-  <img src="https://images.credly.com/size/680x680/images/2f571cea-d149-418c-b01e-c7e51b6ef061/Cisco_DevNetSpecialist.png" width="180"/>
+  <img src="https://images.credly.com/size/680x680/images/2f571cea-d149-418c-b01e-c7e51b6ef061/Cisco_DevNetSpecialist.png" width="150"/>
  </a>
  <a href="https://www.credly.com/badges/450dc86c-d19e-4874-b74e-41174e246aca/public_url" target="_blank" rel="noreferrer">
-  <img src="https://images.credly.com/size/680x680/images/47c077de-cb53-4163-9440-4dc51b15d5e9/image.png" width="180"/>
+  <img src="https://images.credly.com/size/680x680/images/47c077de-cb53-4163-9440-4dc51b15d5e9/image.png" width="150"/>
+ </a>
+ <a href="https://learn.arista.com/local/learningpath/verifycert.php?AN58CD22D3" target="_blank" rel="noreferrer">
+  <img src="https://learn.arista.com/badge/AristaTechnicalSpecialistAdvocate_ATAA_badge.png" width="150"/>
+ </a>
+ <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=921488" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177019981-324db4da-ecec-47e9-8e44-d31558f37959.png" width="150"/>
+ </a>
+ <a href="https://certificates.infoblox.com/35200748-308a-4cf3-8b28-f5b9588e3849#gs.4odkgf" target="_blank" rel="noreferrer">
+  <img src="https://templates.images.credential.net/16324787241572959715944619148545.png" width="150"/>
  </a>
 </div>
  
