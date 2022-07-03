@@ -16,6 +16,7 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
+<div>
 <p align="center">
  <a href="https://www.python.org" target="_blank" rel="noreferrer" > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"/>
@@ -78,6 +79,7 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="max-width:100%;"/>
  </a>
 </p>
+</div>
 
 <h2 align="center">Achievements</h2>
 <div align="center">
