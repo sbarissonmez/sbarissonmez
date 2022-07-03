@@ -3,21 +3,21 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=30&lines=My+name+is+Baris+Sonmez;I+am+NetDevOps+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=%2336BCF7Center=true&size=30">
-</p>
+</div>
+ 
 
 <h2 align="center">Connect with me:</h2>
-<p align="center">
+<div align="center">
  <a href="https://www.linkedin.com/in/sbarissonmez/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sbarissonmez/" height="30" width="40" />
  </a>
  <a href="mailto:s.barissonmez@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mailto:s.barissonmez@gmail.com" height="30" width="40" />
  </a>
-</p>
+</div>
 
 <h2 align="center">Languages and Tools:</h2>
-<div>
-<p align="center">
+<div align="center">
  <a href="https://www.python.org" target="_blank" rel="noreferrer" > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"/>
  </a>
@@ -78,7 +78,6 @@
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="max-width:100%;"/>
  </a>
-</p>
 </div>
 
 <h2 align="center">Achievements</h2>
