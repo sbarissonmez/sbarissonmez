@@ -121,21 +121,44 @@
  <a href="https://www.credly.com/badges/f68cdb78-aa23-4759-bc1c-52473150598d/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/2f571cea-d149-418c-b01e-c7e51b6ef061/Cisco_DevNetSpecialist.png" width="150"/>
  </a>
+ <a href="https://www.credly.com/badges/019c37a2-f99a-451c-8127-31bf4eb3ed82/public_url" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177061760-56370d5c-3b1b-4872-befa-409c33047f44.png" width="150"/>
+ </a>
  <a href="https://www.credly.com/badges/450dc86c-d19e-4874-b74e-41174e246aca/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/47c077de-cb53-4163-9440-4dc51b15d5e9/image.png" width="150"/>
  </a>
- <a href="https://learn.arista.com/local/learningpath/verifycert.php?AN58CD22D3" target="_blank" rel="noreferrer">
-  <img src="https://learn.arista.com/badge/AristaTechnicalSpecialistAdvocate_ATAA_badge.png" width="150"/>
+ <a href="https://www.credly.com/badges/d991a240-69e5-48cf-babd-fcc80bed1467/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/680x680/images/e70e8fe5-86bd-4040-bf56-fda0e39f21a6/image.png" width="150"/>
  </a>
- <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=921488" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/13288840/177019981-324db4da-ecec-47e9-8e44-d31558f37959.png" width="150"/>
+ <a href="https://learn.arista.com/blocks/course_linkedincert/verifycert.php?AN15863157" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177061951-f0cd1fa9-06c8-439d-a540-339f1d9be9ac.png" width="150"/>
  </a>
  <a href="https://certificates.infoblox.com/35200748-308a-4cf3-8b28-f5b9588e3849#gs.4odkgf" target="_blank" rel="noreferrer">
   <img src="https://templates.images.credential.net/16324787241572959715944619148545.png" width="150"/>
  </a>
+ <a href="https://certificates.infoblox.com/c5e6455f-5631-49b1-b9b4-93ce4ed54fab" target="_blank" rel="noreferrer">
+  <img src="https://templates.images.credential.net/16324787613378858785456818705712.png" width="150"/>
+ </a>
+ <a href="https://certificates.infoblox.com/5ac4c4f1-2077-4a7c-bafb-8a548baf5658" target="_blank" rel="noreferrer">
+  <img src="https://templates.images.credential.net/16324787854395002295023992005185.png" width="150"/>
+ </a>
+ <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=921488" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177019981-324db4da-ecec-47e9-8e44-d31558f37959.png" width="150"/>
+ </a>
+ <a href="http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-BarisSonmez-853857.pdf" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/13288840/177062376-2b0c0f98-504c-48a2-adb0-91e7f9ed4307.png" width="150"/>
+ </a>
+  <a href="https://www.credly.com/badges/4362efec-3355-49c4-9ad4-2de941235e1f/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/680x680/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png" width="150"/>
+ </a>
+  <a href="https://www.credly.com/badges/03f9dc5d-3c9a-4ad4-936a-4a00058ddd18/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" width="150"/>
+ </a>
+  <a href="https://www.credly.com/badges/1afdfd94-8c87-47ab-8617-895e21e93d40/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/680x680/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" width="150"/>
+ </a>
 </div>
  
-
 <!--Statistics-->
 <hr>
 <div align="center">
