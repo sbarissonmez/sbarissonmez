@@ -81,6 +81,9 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="max-width:100%;"/>
  </a>
+ <a href="https://about.gitlab.com/" rel="nofollow"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" width="40" height="40" style="max-width:100%;"/> 
+ </a>
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="max-width:100%;"/>
  </a>
