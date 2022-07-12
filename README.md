@@ -41,9 +41,11 @@
  <a href="https://carlmontanari.github.io/scrapli/" rel="nofollow"> 
   <img src="https://www.packetcoders.io/content/images/2021/07/scrapli.svg" alt="scrapli" width="40" height="40" style="max-width:100%;"/> 
  </a>
+<!--
  <a href="https://docs.pytest.org/en/7.1.x/" rel="nofollow"> 
   <img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" alt="pytest" width="40" height="40" style="max-width:100%;"/> 
  </a>
+--> 
  <a href="https://www.openconfig.net/" rel="nofollow"> 
   <img src="https://www.openconfig.net/img/oc-logo-accent.svg" alt="openconfig" width="40" height="40" style="max-width:100%;"/> 
  </a>
@@ -65,9 +67,11 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"/>
  </a>
+<!-- 
  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40" style="max-width:100%;"> 
  </a>
+-->
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width:100%;"/>
  </a>
@@ -177,7 +181,8 @@
 <hr>
 <div align="center">
  <div align="center">
- [![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarissonmez&count_private=true&include_all_commits=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
+ 
+[![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarissonmez&count_private=true&include_all_commits=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 
