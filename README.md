@@ -65,9 +65,11 @@
 <a href="https://www.ansible.com/" rel="nofollow"> 
   <img src="https://user-images.githubusercontent.com/13288840/177060536-190fedef-39fe-4b99-9aed-188ca4471bac.png" alt="ansible" width="40" height="40" style="max-width:100%;"/> 
 </a>
+<!--
  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40" style="max-width:100%;"> 
  </a>
+ -->
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"/>
 </a>
