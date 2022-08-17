@@ -179,7 +179,7 @@
 <hr>
 <div align="center">
  <div align="center">
- 
+<!--
 [![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarissonmez&count_private=true&include_all_commits=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
