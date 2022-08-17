@@ -178,7 +178,6 @@
 <!--Statistics-->
 <hr>
 <div align="center">
- <div align="center">
 <!--
 [![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarissonmez&count_private=true&include_all_commits=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -193,8 +192,10 @@
   <a href="https://github.com/sbarissonmez?tab=followers">
     <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat">
   </a>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <!--
 [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sbarissonmez.visitor-badge)](https://github.com/jwenjian/visitor-badge)
