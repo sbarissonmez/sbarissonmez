@@ -182,7 +182,11 @@
  
 [![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarissonmez&count_private=true&include_all_commits=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
 
 [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sbarissonmez.visitor-badge)](https://github.com/jwenjian/visitor-badge)
 
