@@ -174,7 +174,7 @@
  </a>
 -->
 </div>
- 
+
 <!--Statistics-->
 <hr>
 <div align="center">
@@ -193,8 +193,6 @@
   <a href="https://github.com/sbarissonmez?tab=followers">
     <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat">
   </a>
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
 </div>
