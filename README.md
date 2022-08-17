@@ -184,6 +184,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sbarissonmez.visitor-badge)](https://github.com/jwenjian/visitor-badge)
+
 <!--  
   <a href="https://github.com/sbarissonmez/github-profile-views-counter">
    <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&color=f75c7e">
@@ -193,7 +195,7 @@
   </a>
 -->
  </div>
-<!-- 
+<!--
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbarissonmez&show_icons=true&theme=radical" />
   <a href="https://git.io/streak-stats">
