@@ -186,26 +186,39 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
-
-[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sbarissonmez.visitor-badge)](https://github.com/jwenjian/visitor-badge)
-
-<!--  
+<div align="center">
   <a href="https://github.com/sbarissonmez/github-profile-views-counter">
-   <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&color=f75c7e">
+   <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat&label=Profile+Views">
   </a>
   <a href="https://github.com/sbarissonmez?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat-square&color=f75c7e">
+    <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat">
   </a>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<!--
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sbarissonmez.visitor-badge)](https://github.com/jwenjian/visitor-badge)
 -->
+<!--
+  <a href="https://github.com/sbarissonmez/github-profile-views-counter">
+   <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat">
+  </a>
+  <a href="https://github.com/sbarissonmez?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat">
+  </a>
  </div>
+-->
 <!--
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbarissonmez&show_icons=true&theme=radical" />
   <a href="https://git.io/streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sbarissonmez&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  -->
+   <!--
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black" />
   </a>
  </div>
---> 
+-->
  
  <div  align="center"> <img src="https://github.com/sbarissonmez/sbarissonmez/blob/output/github-contribution-grid-snake.svg" /></div>
