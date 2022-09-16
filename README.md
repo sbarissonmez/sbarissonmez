@@ -177,7 +177,7 @@ Hi there
 -->
 </div>
 
-<br>
+<h2 align="center"></h2>
 <div align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black" />
 </div>
