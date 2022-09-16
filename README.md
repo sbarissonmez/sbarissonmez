@@ -1,21 +1,35 @@
-<h1 align="center">
- Welcome to My GitHub Page
+<h2 align="center">
+Hi there 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ I'm Baris Sonmez</h1>
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=30&lines=My+name+is+Baris+Sonmez;I+am+NetDevOps+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=%2336BCF7Center=true&size=30">
-</div>
- 
 
-<h2 align="center">Connect with me:</h2>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
+<img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat&label=Profile+Views"> 
+<br>
+
+![developer](./developer.gif)
+
+<!--
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=30&lines=My+name+is+Baris+Sonmez;I+am+NetDevOps+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=%2336BCF7Center=true&size=30">
+  
+</div>
+-->
+
+<h2 align="center">Connect with me :</h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/sbarissonmez/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sbarissonmez/" height="30" width="40" />
  </a>
  <a href="mailto:s.barissonmez@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mailto:s.barissonmez@gmail.com" height="30" width="40" />
  </a>
 </div>
-<h2 align="center">Languages and Tools:</h2>
+
+
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"/>
@@ -175,7 +189,7 @@
 -->
 </div>
 
-<!--Statistics-->
+<!--Statistics
 <hr>
 <div align="center">
 <!--
@@ -185,40 +199,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
+<br>
 <div align="center">
-  <a href="https://github.com/sbarissonmez/github-profile-views-counter">
-   <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat&label=Profile+Views">
-  </a>
-  <a href="https://github.com/sbarissonmez?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat">
-  </a>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<!--
-[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sbarissonmez.visitor-badge)](https://github.com/jwenjian/visitor-badge)
--->
-<!--
-  <a href="https://github.com/sbarissonmez/github-profile-views-counter">
-   <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat">
-  </a>
-  <a href="https://github.com/sbarissonmez?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/sbarissonmez?style=flat">
-  </a>
- </div>
--->
-<!--
- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbarissonmez&show_icons=true&theme=radical" />
-  <a href="https://git.io/streak-stats">
-  -->
-   <!--
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&layout=compact&border_color=black" />
-  </a>
- </div>
--->
-<!--
-<div  align="center"> <img src="https://github.com/sbarissonmez/sbarissonmez/blob/output/github-contribution-grid-snake.svg" /></div>
--->
+</div>
