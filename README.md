@@ -5,20 +5,10 @@ Hi there
 </h1>
 
 <div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-
 <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat&label=Profile+Views"> 
 <br>
-
-![developer](./developer.gif)
-
-<!--
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%2336BCF7&size=30&lines=My+name+is+Baris+Sonmez;I+am+NetDevOps+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=%2336BCF7Center=true&size=30">
-  
+<img src="https://github.com/sbarissonmez/sbarissonmez/raw/main/developer.gif" style="max-width:50%;">
 </div>
--->
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
@@ -27,7 +17,6 @@ Hi there
  <a href="mailto:s.barissonmez@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mailto:s.barissonmez@gmail.com" height="30" width="40" />
  </a>
 </div>
-
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
@@ -138,7 +127,6 @@ Hi there
 -->
 </div>
 
-
 <h2 align="center">Achievements</h2>
 <div align="center">
  <a href="https://www.credly.com/badges/cd644a1e-1ddd-4125-99cd-2ed4fcfb8f1f/public_url" target="_blank" rel="noreferrer">
@@ -188,16 +176,6 @@ Hi there
  </a>
 -->
 </div>
-
-<!--Statistics
-<hr>
-<div align="center">
-<!--
-[![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarissonmez&count_private=true&include_all_commits=true&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarissonmez&border_color=black)](https://github.com/anuraghazra/github-readme-stats)  
--->
 
 <br>
 <div align="center">
