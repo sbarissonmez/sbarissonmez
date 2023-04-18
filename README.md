@@ -130,9 +130,6 @@ Hi there
  <a href="https://www.credly.com/badges/03f9dc5d-3c9a-4ad4-936a-4a00058ddd18/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="150"/>
  </a>
- <a href="https://www.credly.com/badges/1afdfd94-8c87-47ab-8617-895e21e93d40/public_url" target="_blank" rel="noreferrer">
-  <img src="https://images.credly.com/size/680x680/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/Team_Essentials.png" alt="Enterprise Design Thinking - Team Essentials for AI" width="150"/> 
- </a>
 </div>
 
 <h2 align="center"></h2>
