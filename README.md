@@ -112,14 +112,14 @@ Hi there
  <a href="https://www.credly.com/badges/450dc86c-d19e-4874-b74e-41174e246aca/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/47c077de-cb53-4163-9440-4dc51b15d5e9/image.png" alt="Aruba AASX" width="150"/> 
  </a>
+ <a href="https://www.credly.com/badges/c8a94bcc-9ca2-4a62-a4a7-b4bc9537fda9/public_url" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Instructor 1 Year of Service" width="150"/> 
+ </a>
  <a href="https://www.credly.com/badges/64a584bf-3d79-4754-894a-be1cfec382c0/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="150"/> 
  </a>
  <a href="https://www.credly.com/badges/ac3534eb-3ab4-4a0e-9ad9-11e22412c26e/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/680x680/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="150"/> 
- </a>
- <a href="https://www.credly.com/badges/c8a94bcc-9ca2-4a62-a4a7-b4bc9537fda9/public_url" target="_blank" rel="noreferrer">
-  <img src="https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Instructor 1 Year of Service" width="150"/> 
  </a>
  <a href="https://learn.arista.com/blocks/course_linkedincert/verifycert.php?AN15863157" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/13288840/177061951-f0cd1fa9-06c8-439d-a540-339f1d9be9ac.png" alt="Arista Technical Specialist Advocate" width="150"/>
