@@ -78,16 +78,16 @@ Hi there
 <a href="https://about.gitlab.com/" rel="nofollow"> 
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" width="40" height="40" style="max-width:100%;"/> 
 </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer noopener">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="max-width:100%;"/> 
  </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer noopener">
   <img src="https://user-images.githubusercontent.com/13288840/177059919-11874bd2-5a22-45f4-821b-999d11a4892b.png" alt="terraform" width="40" height="40" style="max-width:100%;"/> 
  </a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40" style="max-width:100%;"/> 
  </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer noopener">
   <img src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" alt="aws" width="40" height="40" style="max-width:100%;"/> 
  </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener">
