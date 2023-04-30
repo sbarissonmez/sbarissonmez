@@ -91,7 +91,7 @@ Hi there
   <img title="AWS" src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
-  <img title="GCP" src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/cloud/images/favicons/onecloud/apple-icon.png" width="40" height="40" style="max-width:100%;"> 
+  <img title="Google Cloud" src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/cloud/images/favicons/onecloud/apple-icon.png" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img title="Microsoft Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="40" height="40" style="max-width:100%;"> 
