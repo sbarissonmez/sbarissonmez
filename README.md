@@ -49,7 +49,7 @@ Hi there
   <img title="Scrapli" src="https://www.packetcoders.io/content/images/2021/07/scrapli.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://suzieq.readthedocs.io" target="_blank" rel="noreferrer noopener" style="text-decoration: none"> 
-  <img title="Suzieq" src="https://repository-images.githubusercontent.com/232338630/806d3a80-fa93-11ea-88b8-8d5e4cb02a6a" width="40" height="40" style="max-width:100%;"> 
+  <img title="Suzieq" src="https://www.packetcoders.io/content/images/2021/07/scrapli.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://www.openconfig.net/" target="_blank" rel="noreferrer noopener" style="text-decoration: none"> 
   <img title="Openconfig" src="https://www.openconfig.net/img/oc-logo-accent.svg" width="40" height="40" style="max-width:100%;"> 
