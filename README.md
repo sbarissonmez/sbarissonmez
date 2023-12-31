@@ -15,7 +15,6 @@ Hi there
  <a href="https://www.linkedin.com/in/sbarissonmez/" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sbarissonmez/" height="30" width="40" /></a>
  <a href="mailto:devops@barissonmez.dev" target="_blank" rel="noreferrer noopener"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mailto:devops@barissonmez.dev" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/18600126" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8049950" height="30" width="40" /></a>
- <a href="https://dev.to/sbarissonmez" target="_blank" rel="noreferrer noopener"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="8049950" height="40" width="40" /></a>
  <a href="https://medium.com/@sbarissonmez" target="_blank" rel="noreferrer noopener"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" alt="8049950" height="40" width="40" /></a>
 </div>
 
