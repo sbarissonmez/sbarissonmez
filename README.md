@@ -27,7 +27,7 @@ Hi there
  <img title="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
- <img title="Postman" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40" style="max-width:100%;"> 
+ <img title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
  <img title="Bash" src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" width="40" height="40" style="max-width:100%;"> 
