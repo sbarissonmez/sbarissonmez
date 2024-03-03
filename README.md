@@ -109,7 +109,7 @@ Hi there
   <img src="https://user-images.githubusercontent.com/13288840/177061760-56370d5c-3b1b-4872-befa-409c33047f44.png" alt="Enterprise SD-WAN" width="100"> 
  </a>
  <a href="https://www.credly.com/badges/450dc86c-d19e-4874-b74e-41174e246aca/public_url" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
-  <img src="https://images.credly.com/size/680x680/images/47c077de-cb53-4163-9440-4dc51b15d5e9/image.png" alt="Aruba AASX" width="100"> 
+  <img src="https://images.credly.com/images/56f0eacf-ff2f-45de-8983-471b4a8b3152/image.png" alt="Aruba AASX" width="100"> 
  </a>
  <a href="https://www.credly.com/badges/c8a94bcc-9ca2-4a62-a4a7-b4bc9537fda9/public_url" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img src="https://images.credly.com/size/680x680/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Instructor 1 Year of Service" width="100"> 
