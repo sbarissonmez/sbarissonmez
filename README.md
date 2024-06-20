@@ -23,9 +23,6 @@ Hi there
 <a href="https://www.python.org" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
- <img title="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" style="max-width:100%;"> 
- </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
  <img title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
@@ -62,9 +59,6 @@ Hi there
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none"> 
   <img title="Ansible" src="https://user-images.githubusercontent.com/13288840/177060536-190fedef-39fe-4b99-9aed-188ca4471bac.png" width="40" height="40" style="max-width:100%;"> 
  </a>
-<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
-  <img title="Redhat" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="40" height="40" style="max-width:100%;"> 
- </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
@@ -74,9 +68,6 @@ Hi there
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img title="kubernetes" src="https://user-images.githubusercontent.com/13288840/177059841-71acd10f-0098-47ab-b950-eb730de8255f.png" width="40" height="40" style="max-width:100%;"> 
  </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none"> 
-  <img title="GitLab" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40" height="40" style="max-width:100%;"> 
-</a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img title="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
@@ -90,7 +81,7 @@ Hi there
   <img title="AWS" src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
-  <img title="Google Cloud" src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/cloud/images/favicons/onecloud/apple-icon.png" width="40" height="40" style="max-width:100%;"> 
+  <img title="Google Cloud" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" width="40" height="40" style="max-width:100%;"> 
  </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img title="Microsoft Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="40" height="40" style="max-width:100%;"> 
