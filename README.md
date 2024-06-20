@@ -47,9 +47,6 @@ Hi there
 <a href="https://suzieq.readthedocs.io" target="_blank" rel="noreferrer noopener" style="text-decoration: none"> 
   <img title="Suzieq" src="https://raw.githubusercontent.com/netenglabs/suzieq/develop/suzieq/gui/images/logo-small.jpg" width="40" height="40" style="max-width:100%;"> 
  </a>
-<a href="https://www.openconfig.net/" target="_blank" rel="noreferrer noopener" style="text-decoration: none"> 
-  <img title="Openconfig" src="https://www.openconfig.net/img/oc-logo-accent.svg" width="40" height="40" style="max-width:100%;"> 
- </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none">
   <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="max-width:100%;"> 
  </a>
