@@ -6,9 +6,6 @@ Hi there
 
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=sbarissonmez&style=flat&label=Profile+Views"> 
-<br>
-<img src="https://github.com/sbarissonmez/sbarissonmez/raw/main/developer.gif" width="500">
-</div>
 
 <h2 align="center">Connect with me :</h2>
 <div align="center">
